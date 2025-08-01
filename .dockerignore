@@ -1,0 +1,13 @@
+# 가상환경 제외
+venv/
+
+# 파이썬 캐시파일 제외
+__pycache__/
+*.pyc
+
+# Jupyter 체크포인트 제외
+.ipynb_checkpoints/
+
+# Mac, Windows 시스템 파일
+.DS_Store
+Thumbs.db
